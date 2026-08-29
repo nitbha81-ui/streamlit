@@ -1,0 +1,12 @@
+﻿streamlit
+langchain
+langchain-anthropic
+langchain-community
+langchain-pinecone
+langchain-text-splitters
+pinecone
+sentence-transformers
+python-dotenv
+duckduckgo-search
+pypdf
+docx2txt
