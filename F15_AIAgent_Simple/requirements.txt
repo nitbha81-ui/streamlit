@@ -1,0 +1,8 @@
+﻿langchain
+langchain-anthropic
+langchain-community
+langchain-pinecone
+pinecone
+sentence-transformers
+python-dotenv
+streamlit

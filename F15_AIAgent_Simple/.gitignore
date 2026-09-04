@@ -1,0 +1,23 @@
+# Secrets / environment
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+venv311/
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
