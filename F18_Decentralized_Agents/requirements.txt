@@ -1,0 +1,10 @@
+langchain
+langchain-anthropic
+langchain-community
+langchain-huggingface
+langchain-pinecone
+pinecone
+sentence-transformers
+ddgs
+python-dotenv
+streamlit

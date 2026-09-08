@@ -1,0 +1,8 @@
+[server]
+# "poll" avoids importing/introspecting every installed module on change
+# detection, which prevents noisy tracebacks from optional heavy libraries
+# (e.g. transformers image processors that require torchvision).
+fileWatcherType = "poll"
+
+[logger]
+level = "warning"
